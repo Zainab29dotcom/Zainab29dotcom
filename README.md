@@ -7,6 +7,6 @@
 - ⚡ Fun fact: ...
 
 <!---
-Zainab29dotcom/Zainab29dotcom is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Zainab29dotcom/zainab231730✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
